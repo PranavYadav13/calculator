@@ -7,4 +7,5 @@ class Calculator{
     int r2=n1-n2;
     int r3=n1*n2;
     int r4=n1/n2;
+    system.out.println("Addition:"+r1);
   }
